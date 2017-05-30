@@ -50,13 +50,13 @@ Table of Contents
     + [Restrictions Imposed by the License](#restrictions-imposed-by-the-license)
   * [Other Repository Information](#other-repository-information)
     + [JVM Artifacts](#jvm-artifacts)
-    + [Node Modules](#node-modules)
-    + [Docker Images](#docker-images)
+<!---    + [Node Modules](#node-modules)
+    + [Docker Images](#docker-images) --->
   * [Working with External Contributors](#working-with-external-contributors)
   * [Project Promotion](#project-promotion)
     + [Proactively Communicate](#proactively-communicate)
   * [Contributing to Non-dm Open-Source Projects](#contributing-to-non-dm-open-source-projects)
-      - [CLAs](#clas)
+  <!---    - [CLAs](#clas) --->
 
 
 
