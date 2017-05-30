@@ -332,6 +332,7 @@ Host JVM artifacts (*.jar) on Maven Central in [the ‘de.dm’ group](https://r
 
 If you want to push to Sonatype but not to *.dm, register a different Sonatype account with a non-dm email address.
 
+<!---
 #### Node Modules
 [Node](https://www.npmjs.com/) modules [now have namespaces](http://blog.npmjs.org/post/116936804365/solving-npms-hard-problem-naming-packages). Prefix them with a short product name: e.g. [karma](https://karma-runner.github.io/0.12/index.html) plugins are prefixed “karma-”; the same goes for gulp, grunt, etc. Host your Node modules in the public NPM registry. Here is [how to publish to NPM](https://gist.github.com/coolaj86/1318304).
 
@@ -345,6 +346,8 @@ $ docker push registry-write.opensource.zalan.do/myteam/myartifact:1.0
 $ # on any other computer:
 $ docker pull registry.opensource.zalan.do/myteam/myartifact:1.0 # no auth needed for download!
 ```
+--->
+
 
 ### Working with External Contributors
 
@@ -376,6 +379,8 @@ We encourage you to contribute to other open-source projects in ways that benefi
 - pitching a feature request that your team/dept needs to a project we're using, getting confirmation from the maintainers to go forward, and doing the work
   - a good idea is to review the project's GitHub Issues Tracker to see if anyone else has made the same feature request; restart that conversation and see if you can get them + others to work collaboratively to make the needed change 
 
+<!---
 ##### CLAs 
 
 For typical CLAs, we are safe — but ask our legal team (guild can provide their contact info) to double-check whenever you’re in doubt. CLAs that are safe: Oracle, Apache, Google Projects.
+--->
