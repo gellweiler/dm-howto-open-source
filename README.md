@@ -195,6 +195,10 @@ The official namespace for our projects is ‘**de.dm**’, where applicable. Th
 
 All repository changes, including those made by maintainers, should come from GitHub pull requests so that we can streamline review and change tracking (as per [GitHub Flow](https://guides.github.com/introduction/flow/)). Everyone should have their own fork, though you can still edit READMEs/documentation/related files with the GitHub “Edit” button. The ‘master’ branch should be the accepted development head; pull requests get merged there.
 
+### Automatic code testing and linting
+Automatic code testing of pull requests with e.g. travis-ci makes reviews a lot easier and helps new developers to make changes without breaking existing functionality. But mostly for your own sake, make sure you have decent test coverage.
+Automatic linting also helps with reviews as it notifies you about possible errors and bad practices. Sharing and enforcing a common coding style makes reading unkown code easier.
+
 ### Versioning
 
 Version all project artifacts should be [semantically](http://semver.org/). Tag all versions in GitHub with the exact version name (like ‘0.1.0’; do not prefix tags with “v.” or similar). For a better user experience, use the GitHub “release notes” feature to add notes whenever you change something in the new version.
