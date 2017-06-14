@@ -1,7 +1,7 @@
 How to Open Source at dm-drogerie markt
 ==================
 
-A guide to releasing an open-source project at [dm-drogerie markt](https://www.dm.de>), Europe's largest drugstore. Please feel free to use this as a template for your own organization's open source planning, policymaking, and development efforts. If there's a topic we've missed, or if you have any suggestions for making this better, let us know via our Issues tracker.
+A guide to releasing an open-source project at [dm-drogerie markt](https://www.dm.de), Europe's largest drugstore. Please feel free to use this as a template for your own organization's open source planning, policymaking, and development efforts. If there's a topic we've missed, or if you have any suggestions for making this better, let us know via our Issues tracker.
 
 This is based on Zalando's brilliant '[how to open source](https://github.com/zalando/zalando-howto-open-source)'.
 
